@@ -376,4 +376,20 @@ export { default as ChartsScreen } from './ChartsScreen';
 // Export additional screen components as needed
   ```
 Landing Page Screenshot
-![Landing Page Screenshot]
+<img width="1440" alt="Landing Page" src="https://github.com/srikrishna-newbie/expense-tracker/assets/110339920/d0bae076-601b-4a98-9a3d-ac4b04d8836b">
+
+Home Screen Screenshot
+<img width="1440" alt="Home Screen" src="https://github.com/srikrishna-newbie/expense-tracker/assets/110339920/8d4a90ff-6b44-4251-9eb2-b33ec2856545">
+
+Adding Data Screenshot
+<img width="1440" alt="Adding Data" src="https://github.com/srikrishna-newbie/expense-tracker/assets/110339920/51fc9963-5b9d-4812-815e-2ecb447a9553">
+
+Charts Screen screenshot
+<img width="1440" alt="Charts Screen" src="https://github.com/srikrishna-newbie/expense-tracker/assets/110339920/e8038854-9b63-46a2-9e93-27397482393d">
+
+Charts screen after adding more data i.e expenses
+<img width="1440" alt="Charts screen after adding more data" src="https://github.com/srikrishna-newbie/expense-tracker/assets/110339920/9ecdc2ad-fa71-4002-8ad5-d95e4a79277f">
+
+
+
+
