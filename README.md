@@ -391,5 +391,10 @@ Charts screen after adding more data i.e expenses
 <img width="1440" alt="Charts screen after adding more data" src="https://github.com/srikrishna-newbie/expense-tracker/assets/110339920/9ecdc2ad-fa71-4002-8ad5-d95e4a79277f">
 
 
+Video Recording
+
+
+https://github.com/srikrishna-newbie/expense-tracker/assets/110339920/d2898cd7-ae98-4de4-8528-55d52dc9e2d0
+
 
 
